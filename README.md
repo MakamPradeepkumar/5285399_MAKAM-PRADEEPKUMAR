@@ -8,4 +8,4 @@
 
 ![image_alt](https://github.com/MakamPradeepkumar/5285399_MAKAM-PRADEEPKUMAR/blob/main/WhatsApp%20Image%202025-07-30%20at%2022.58.08_42e5ad62.jpg?raw=true)
 
-1[image_alt](https://github.com/MakamPradeepkumar/5285399_MAKAM-PRADEEPKUMAR/blob/main/WhatsApp%20Image%202025-07-30%20at%2022.58.08_078c3de1.jpg?raw=true)
+![image_alt](https://github.com/MakamPradeepkumar/5285399_MAKAM-PRADEEPKUMAR/blob/main/WhatsApp%20Image%202025-07-30%20at%2022.58.08_078c3de1.jpg?raw=true)
