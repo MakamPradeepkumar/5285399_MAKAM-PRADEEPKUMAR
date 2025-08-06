@@ -13,7 +13,7 @@
 #include <string.h>
 
 void sorting(int arr[], int n){
-    int i,j,temp;
+    long int i,j,temp;
     for(i=0;i<n-1;i++){
         for(j=0;j<n-i-1;j++){
             if(arr[j]>arr[j+1]){
@@ -27,8 +27,8 @@ void sorting(int arr[], int n){
 int main(){
     int arr[5];
     int n=5;
-    int sum=0;
-    int f,l;
+    long int sum=0;
+    long int f,l;
     for(int i=0;i<5;i++){
         scanf("%d ",&arr[i]);
         sum+=arr[i];
@@ -42,7 +42,7 @@ int main(){
     }
     int least = sum-l;
     int highest = sum-f;
-    printf("%d %d \n" ,least , highest);
+    printf("%ld %ld \n" ,least , highest);
     return 0;
     
 }
